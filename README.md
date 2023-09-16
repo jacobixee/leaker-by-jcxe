@@ -17,7 +17,7 @@
         > Full Dropbox
         > Set Name of your app
         > Go to perrmissions
-        > Select 'files.content.write' and 'files.content.write'
+        > Select 'files.content.write' and 'files.content.read'
         > Go back to Settings
         > Generate Access Token
 
