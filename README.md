@@ -23,7 +23,7 @@
 
 ## How to configure
     - Edit `main.py`
-    - Replace `ACCESS_TOKEN` with your `discord webhook url`
+    - Replace `ACCESS_TOKEN` with your `drppbox access token` 
     - Replace `ursenderemail@gmail.com` to `email for sending`
     - Replace `password` with `email for sending password`
     - Replace `urmail@gmail.com` to `your mail address`
